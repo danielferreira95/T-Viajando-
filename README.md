@@ -44,9 +44,9 @@ Neste exercício, vai ser verificada sua capacidade de:
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/sd-0x-exercise-to-viajando`.
+- Use o comando: `git clone git@github.com:tryber/sd-037-exercise-to-viajando`.
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-exercise-to-viajando`
+  - `cd sd-037-exercise-to-viajando`
 
 2. Instale as dependências
 
@@ -60,7 +60,7 @@ Neste exercício, vai ser verificada sua capacidade de:
   - Exemplo: `git checkout main`
 - Agora, crie uma branch à qual você vai submeter os `commits` de seu exercício.
   - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-exercicio`.
-  - Exemplo: `git checkout -b joaozinho-sd-0x-exercise-to-viajando`
+  - Exemplo: `git checkout -b joaozinho-sd-037-exercise-to-viajando`
 
 4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
@@ -77,11 +77,11 @@ Neste exercício, vai ser verificada sua capacidade de:
 
 5. Adicione sua branch com o novo `commit` ao repositório remoto
 
-- Usando o exemplo anterior: `git push -u origin joaozinho-sd-0x-exercise-to-viajando`
+- Usando o exemplo anterior: `git push -u origin joaozinho-sd-037-exercise-to-viajando`
 
 6. Crie um `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-exercise-to-viajando/pulls).
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-037-exercise-to-viajando/pulls).
 - Clique no botão verde _"New pull request"_.
 - Clique na caixa de seleção _"Compare"_ e escolha sua branch **com atenção**.
 - Dê um título à sua _Pull Request_.
@@ -89,7 +89,7 @@ Neste exercício, vai ser verificada sua capacidade de:
 - Clique no botão verde _"Create pull request"_.
 - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_.
 - **Não se preocupe em preencher mais nada por enquanto!**
-- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-exercise-to-viajando/pulls) e confira se seu _Pull Request_ está criado.
+- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-037-exercise-to-viajando/pulls) e confira se seu _Pull Request_ está criado.
 
 </details>
 
@@ -120,7 +120,7 @@ Para sinalizar que seu exercício está pronto para o _"Code Review"_, faça o s
 
   - No menu à direita, clique no _link_ **"Assignees"** e escolha **seu usuário**.
 
-  - No menu à direita, clique no _link_ **"Reviewers"**, digite `students` e selecione o time `tryber/students-sd-0x`.
+  - No menu à direita, clique no _link_ **"Reviewers"**, digite `students` e selecione o time `tryber/students-sd-037`.
 
 Caso tenha alguma dúvida, [aqui há um video explicativo](https://vimeo.com/362189205).
 
@@ -224,7 +224,7 @@ it.only('Será validado se o campo de filtro por nome renderiza na tela', () => 
 
 Ao finalizar e submeter o exercício, não se esqueça de avaliar sua experiência preenchendo o formulário, o que leva menos de 3 minutos!
 
-[FORMULÁRIO DE AVALIAÇÃO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[FORMULÁRIO DE AVALIAÇÃO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH37&template=betrybe/sd-0x-exercise-to-viajando)
 
 </details>
 
